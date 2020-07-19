@@ -1,6 +1,6 @@
 # CRM система для учета заявок
 <p>
-	<img src="./img/pictures" alt="">
+	<img src="./img/pictures/crm-project.jpg" alt="">
 </p>
 
 ### Функционал
